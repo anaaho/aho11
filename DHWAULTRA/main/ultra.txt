@@ -1,1 +1,1 @@
-{'ver1':'20', 'ver2':'0', 'ver':'\n•Base 2.25.1.65.\n•Enabled New Features.\n•[New] Fix Link A Device.\n• [VO] 100% تحديث جديد متوفر \n•Extend Expiration date.\n' , 'dli':'https://t.me/VD_AN'}
+{'ver1':'22', 'ver2':'0', 'ver':'\n•Base 2.25.1.65.\n•Enabled New Features.\n•[New] Fix Link A Device.\n• [VO] 100% تحديث جديد متوفر \n•Extend Expiration date.\n' , 'dli':'https://t.me/VD_AN'}
